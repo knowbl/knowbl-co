@@ -1,6 +1,6 @@
 # Knowbl.co
 
-DESC for [https://knowbl.co/](https://knowbl.co/)
+DESC for [https://knowbl.co/](https://knowbl.co/).
 
 ## Canonical source
 
